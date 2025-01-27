@@ -6,6 +6,6 @@ class sub
     a=9;
     b=4;
     sub=a-b;
-  System.out.println("substraction of 2 numbers is",+sub);
+    System.out.println("substraction of 2 numbers is",+sub);
   }
 }
